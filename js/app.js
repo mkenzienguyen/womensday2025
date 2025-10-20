@@ -67,7 +67,7 @@ $(window).on("load", function () {
 	/* https://mattboldt.com/typed.js/ */
 	var typed = new Typed("#text", {
 		strings: [
-			"Happy Women's Day! I hope you're doing well and feeling happy. I just wanted to wish you all the best on this special day. May you have lots of success and happiness in your life, enjoy the beauty of spring, and stay healthy all year long.  <br> <b>So keep shining and smiling, and have an awesome Women's Day!</b>",
+			"Happy Women's Day! I hope you're doing well and feeling happy. I just wanna wish you all the best on this special day. May you have lots of success, joy, and health in your life.  <br> <b>Keep shining and smiling, and have an awesome Women's Day!</b>",
 		],
 		startDelay: 4500,
 		typeSpeed: 92,
