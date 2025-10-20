@@ -9,7 +9,7 @@ $(window).on("load", function () {
 		askedName === undefined ||
 		askedName === ""
 	) {
-		name.text("sisters");
+		name.text("Love");
 		$(".preloader").addClass("revomed");
 	}
 
@@ -67,7 +67,7 @@ $(window).on("load", function () {
 	/* https://mattboldt.com/typed.js/ */
 	var typed = new Typed("#text", {
 		strings: [
-			"Happy Women's Day! I hope you're doing well and feeling happy. I just wanna wish you all the best on this special day. May you have lots of success, joy, and health in your life.  <br> <b>Keep shining and smiling, and have an awesome Women's Day!</b>",
+			"Chúc Mừng Ngày Phụ Nữ 20/10! <br> Nhân dịp ngày Phụ nữ, mình muốn chúc bạn những điều tốt đẹp nhất. Chúc bạn luôn thành công, hạnh phúc và dồi dào sức khỏe. <br> <b>Hãy tiếp tục tỏa sáng rạng rỡ nhé — Chúc bạn một ngày 20/10 tuyệt vời!</b>",
 		],
 		startDelay: 4500,
 		typeSpeed: 92,
